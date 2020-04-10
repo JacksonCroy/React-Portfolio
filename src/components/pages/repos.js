@@ -10,8 +10,8 @@ function GitRepos() {
             <div className="col">
                 <h1>Portfolio</h1>
                 <hr className="rounded col-md-8" />
-                <img id="pokePic" src="/imgs/pokemans.PNG" alt="pokemon battle generator" />
-                <img id="pokePic" src="/imgs/pokemans2.PNG" alt="pokemon battle generator" />
+                <img id="pokePic" src="./imgs/pokemans.PNG" alt="pokemon battle generator" />
+                <img id="pokePic" src="./imgs/pokemans2.PNG" alt="pokemon battle generator" />
                 <ul>
                     <li>
                         <a className="btn btn-dark"href="https://glacial-beyond-53964.herokuapp.com/">
@@ -130,7 +130,7 @@ function GitRepos() {
         <div className="col">
           <hr className="rounded col-md-8" />
           <img className="" id="findtunepic" src="/imgs/WDS.PNG" alt="find Tune" />
-
+          
           <ul>
             <li>
               <a className="btn btn-dark" href="https://jacksoncroy.github.io/Note-Taker/">
